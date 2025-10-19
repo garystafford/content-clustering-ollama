@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "title": "Paradise (Season 1)",
+    "genres": ["Drama", "Thriller", "Crime"],
+    "description": "A Secret Service agent investigates the murder of a former president in a seemingly peaceful community. As hidden agendas and shocking truths emerge, the investigation unveils secrets that threaten everyone involved.",
+    "year": 2025,
+    "keywords": [
+      "Secret Service",
+      "Presidential Murder",
+      "Investigation",
+      "Conspiracy",
+      "Political Thriller",
+      "Government Secrets",
+      "Crime Drama"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Adolescence (Miniseries)",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "description": "When a 13-year-old is accused of the murder of a classmate, his family, therapist, and the detective in charge must unravel the truth. The series explores the effects of a crime on a community and the complexity of youth.",
+    "year": 2025,
+    "keywords": [
+      "Teen Murder",
+      "Juvenile Crime",
+      "Family Drama",
+      "Therapy",
+      "Community Impact",
+      "Youth Violence",
+      "Legal Drama"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hacks (Season 4)",
+    "genres": ["Comedy", "Drama"],
+    "description": "Legendary Vegas comedian Deborah Vance navigates toxic relationships and ambitious rivalries with her young writer. The dark mentorship and vigorous humor drive Season 4 as both characters face new artistic and personal challenges.",
+    "year": 2025,
+    "keywords": [
+      "Stand-Up Comedy",
+      "Mentor Relationship",
+      "Las Vegas",
+      "Showbiz",
+      "Comedy Writing",
+      "Generational Clash",
+      "Entertainment Industry"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dexter: Resurrection (Season 1)",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "description": "Dexter Morgan awakens from a coma and pursues redemption in New York City, determined to find his son Harrison. Has Miami Metro's Angel Batista investigates, Dexter realizes he cannot escape his bloody past.",
+    "year": 2025,
+    "keywords": [
+      "Serial Killer",
+      "Vigilante Justice",
+      "Father Son Relationship",
+      "Miami Metro",
+      "Dark Passenger",
+      "Forensics",
+      "Antihero"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Pitt (Season 1)",
+    "genres": ["Drama", "Medical", "Workplace"],
+    "description": "The lives of healthcare professionals in a busy Pittsburgh hospital. Personal crises, workplace politics, and the emotional toll of treating critical patients demand both resilience and empathy.",
+    "year": 2025,
+    "keywords": [
+      "Hospital Drama",
+      "Medical Professionals",
+      "Healthcare",
+      "Pittsburgh",
+      "Emergency Medicine",
+      "Workplace Stress",
+      "Patient Care"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Poker Face (Season 2)",
+    "genres": ["Mystery", "Crime", "Drama"],
+    "description": "Charlie, gifted at detecting lies, travels across America solving strange crimes. Season 2 expands her adventures as she gets embroiled in more mysteries, each with unique characters and twists.",
+    "year": 2025,
+    "keywords": [
+      "Lie Detector",
+      "Road Trip",
+      "Mystery Solver",
+      "Charlie Cale",
+      "Detective",
+      "Small Town Crimes",
+      "Natasha Lyonne"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Mythic Quest (Season 4)",
+    "genres": ["Comedy", "Workplace"],
+    "description": "The head of a video game studio battles staff drama and industry pressures to maintain their hit title. Season 4 develops key relationships as creative conflict intensifies within the team.",
+    "year": 2025,
+    "keywords": [
+      "Video Game Development",
+      "Tech Comedy",
+      "Workplace Comedy",
+      "Gaming Industry",
+      "Creative Process",
+      "Team Dynamics",
+      "Mmorpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Daredevil: Born Again (Season 2)",
+    "genres": ["Action", "Crime", "Drama"],
+    "description": "Matt Murdock faces off against Wilson Fisk as secrets from their past threaten the safety of Hell's Kitchen. The new season brings heavier stakes and more complex character arcs.",
+    "year": 2025,
+    "keywords": [
+      "Superhero",
+      "Marvel",
+      "Hell'S Kitchen",
+      "Blind Lawyer",
+      "Kingpin",
+      "Vigilante",
+      "Street Level Hero"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Rehearsal (Season 2)",
+    "genres": ["Comedy", "Drama", "Experiment"],
+    "description": "Nathan Fielder enables people to rehearse important life moments using elaborate staged environments. Season 2 deepens its exploration of meta-comedy and human anxiety.",
+    "year": 2024,
+    "keywords": [
+      "Reality Experiment",
+      "Social Anxiety",
+      "Life Rehearsal",
+      "Nathan Fielder",
+      "Meta Comedy",
+      "Human Behavior",
+      "Documentary"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Stick (Season 1)",
+    "genres": ["Drama", "Sports"],
+    "description": "A washed-up golfer finds hope coaching a troubled teenage prodigy after his own family falls apart. Their bond gives both a shot at redemption through sport.",
+    "year": 2025,
+    "keywords": [
+      "Golf",
+      "Mentor Student",
+      "Sports Drama",
+      "Redemption",
+      "Family Breakdown",
+      "Coaching",
+      "Teenage Prodigy"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Studio (Season 1)",
+    "genres": ["Comedy", "Drama"],
+    "description": "A legacy Hollywood movie studio fights to survive as the tension between art and business reaches new heights. The series explores the behind-the-scenes madness and satire of modern filmmaking.",
+    "year": 2024,
+    "keywords": [
+      "Hollywood",
+      "Movie Studio",
+      "Entertainment Industry",
+      "Filmmaking",
+      "Art Vs Commerce",
+      "Showbiz Satire",
+      "Behind The Scenes"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Black Mirror (Season 7)",
+    "genres": ["Science Fiction", "Drama", "Anthology"],
+    "description": "Stand-alone dramas explore techno-paranoia, with sharp, suspenseful and satirical tales about technology's impact on society. New episodes investigate increasingly disturbing futures.",
+    "year": 2025,
+    "keywords": [
+      "Dystopian Future",
+      "Technology",
+      "Anthology",
+      "Social Media",
+      "Artificial Intelligence",
+      "Digital Paranoia",
+      "Near Future"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "John Mulaney Presents: Everybody's In LA",
+    "genres": ["Comedy", "Live Event"],
+    "description": "Comedian John Mulaney examines Los Angeles in six hilarious live installments, spotlighting local personalities and the city's eccentricities.",
+    "year": 2024,
+    "keywords": [
+      "Stand-Up Comedy",
+      "Los Angeles",
+      "Live Show",
+      "John Mulaney",
+      "Comedy Special",
+      "Celebrity Guests",
+      "La Culture"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The White Lotus (Season 3)",
+    "genres": ["Drama", "Satire"],
+    "description": "Guests and employees at a luxury resort experience revealing interactions, mishaps, and secrets over one transformative week, with this season set in a new exotic locale.",
+    "year": 2025,
+    "keywords": [
+      "Luxury Resort",
+      "Dark Comedy",
+      "Wealthy Tourists",
+      "Class Satire",
+      "Vacation Drama",
+      "Mystery",
+      "Ensemble Cast"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Night Agent (Season 2)",
+    "genres": ["Thriller", "Drama", "Political"],
+    "description": "Low-level FBI agent Peter Sutherland is drawn into a massive conspiracy. He battles intrigue and danger that leads him deeper into the political underbelly of the White House.",
+    "year": 2025,
+    "keywords": [
+      "FBI Agent",
+      "Political Conspiracy",
+      "White House",
+      "Government Thriller",
+      "Espionage",
+      "Secret Service",
+      "Action Thriller"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Bear (Season 4)",
+    "genres": ["Drama", "Workplace", "Comedy"],
+    "description": "A talented chef returns to Chicago to run his family's sandwich shop, struggling to transform the business while managing personal and professional relationships.",
+    "year": 2025,
+    "keywords": [
+      "Chef",
+      "Restaurant",
+      "Chicago",
+      "Family Business",
+      "Kitchen Drama",
+      "Food Service",
+      "Culinary Arts"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Platonic (Season 2)",
+    "genres": ["Comedy", "Drama"],
+    "description": "Two former childhood friends reconnect as adults and navigate awkward, comedic scenarios while rebuilding their friendship through life's absurdities.",
+    "year": 2025,
+    "keywords": [
+      "Friendship",
+      "Midlife Comedy",
+      "Childhood Friends",
+      "Adult Relationships",
+      "Platonic Love",
+      "Life Crisis",
+      "Reconnection"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Side Quest",
+    "genres": ["Comedy", "Drama", "Gaming"],
+    "description": "The series follows the lives of employees and players impacted by the hit game Mythic Quest, diving into the humor and challenges of the gaming industry.",
+    "year": 2025,
+    "keywords": [
+      "Gaming Culture",
+      "Video Game Players",
+      "Esports",
+      "Online Community",
+      "Mythic Quest Spinoff",
+      "Gaming Industry",
+      "Nerd Culture"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Floor (Season 3)",
+    "genres": ["Game Show", "Reality", "Competition"],
+    "description": "Eighty-one contestants stand on an enormous floor, facing challenges to remain standing and compete for a grand prize in a riveting game show format.",
+    "year": 2025,
+    "keywords": [
+      "Game Show",
+      "Competition",
+      "Trivia",
+      "Elimination",
+      "Prize Money",
+      "Reality Tv",
+      "Contestants"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Your Friends & Neighbors (Season 1)",
+    "genres": ["Drama", "Thriller"],
+    "description": "A hedge fund manager resorts to burglary after losing his job, targeting his wealthy neighbors, but a fateful mistake puts his family at risk.",
+    "year": 2024,
+    "keywords": [
+      "White Collar Crime",
+      "Suburban Thriller",
+      "Financial Ruin",
+      "Burglary",
+      "Hedge Fund",
+      "Wealthy Neighbors",
+      "Family Drama"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Running Point",
+    "genres": ["Drama", "Sports"],
+    "description": "Overlooked Isla Gordon becomes president of an LA basketball team and strives to prove herself amid family and professional challenges.",
+    "year": 2025,
+    "keywords": [
+      "Basketball",
+      "Sports Management",
+      "Female Executive",
+      "Los Angeles",
+      "Team Ownership",
+      "Professional Sports",
+      "Glass Ceiling"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Alien: Earth",
+    "genres": ["Science Fiction", "Thriller"],
+    "description": "A mysterious space vessel crash-lands, bringing new threats and tactical soldiers face-to-face with Earth's greatest danger.",
+    "year": 2025,
+    "keywords": [
+      "Alien Invasion",
+      "Space Crash",
+      "Military Response",
+      "Extraterrestrial",
+      "Sci-Fi Horror",
+      "First Contact",
+      "Earth Defense"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Dept. Q",
+    "genres": ["Drama", "Crime", "Thriller"],
+    "description": "Carl, a guilt-ridden ex-detective, becomes obsessed with solving cold cases while battling personal demons and corruption within law enforcement.",
+    "year": 2024,
+    "keywords": [
+      "Cold Cases",
+      "Police Corruption",
+      "Detective",
+      "Guilt",
+      "Redemption",
+      "Criminal Investigation",
+      "Personal Demons"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Bad Thoughts",
+    "genres": ["Comedy", "Sketch"],
+    "description": "A series of darkly funny vignettes each exploring disturbing but comedic twists on everyday situations.",
+    "year": 2024,
+    "keywords": [
+      "Dark Comedy",
+      "Sketch Comedy",
+      "Twisted Humor",
+      "Anthology Comedy",
+      "Absurdist",
+      "Vignettes",
+      "Black Humor"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Missing You (Miniseries)",
+    "genres": ["Crime", "Drama"],
+    "description": "Detective Kat Donovan's world unravels when she finds her estranged fianc\u00e9 on a dating app, triggering her to reopen her father's unsolved murder.",
+    "year": 2024,
+    "keywords": [
+      "Cold Case",
+      "Dating App",
+      "Missing Person",
+      "Family Secrets",
+      "Detective",
+      "Unsolved Murder",
+      "Personal Mystery"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Severance (Season 2)",
+    "genres": ["Drama", "Science Fiction", "Thriller"],
+    "description": "A dystopian workplace demands employees compartmentalize their lives using a controversial procedure. Season 2 amplifies the paranoia and reveals the consequences of separating memory from work.",
+    "year": 2025,
+    "keywords": [
+      "Memory Separation",
+      "Corporate Dystopia",
+      "Work Life Balance",
+      "Psychological Thriller",
+      "Mind Control",
+      "Office Horror",
+      "Identity Split"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Wolf Hall: The Final Chapter",
+    "genres": ["Historical", "Drama"],
+    "description": "Thomas Cromwell navigates the turbulent politics of Henry VIII's court, as intrigue and betrayal reach an epic conclusion in this acclaimed miniseries.",
+    "year": 2024,
+    "keywords": [
+      "Henry Viii",
+      "Tudor England",
+      "Thomas Cromwell",
+      "Court Intrigue",
+      "Historical Drama",
+      "Political Maneuvering",
+      "Royal Court"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Dying for Sex",
+    "genres": ["Drama", "Comedy"],
+    "description": "Diagnosed with terminal cancer, a woman seeks to embrace life by exploring her sexuality, supported by her best friend in an emotionally raw journey.",
+    "year": 2024,
+    "keywords": [
+      "Terminal Illness",
+      "Sexual Exploration",
+      "Friendship",
+      "Cancer",
+      "Life Affirmation",
+      "Bucket List",
+      "Female Empowerment"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "The Last of Us (Season 2)",
+    "genres": ["Drama", "Post-Apocalyptic", "Adventure"],
+    "description": "Joel and Ellie journey through a devastated America, facing deadly threats in a post-apocalyptic world where hope and loss intertwine.",
+    "year": 2025,
+    "keywords": [
+      "Zombie Apocalypse",
+      "Post-Apocalyptic",
+      "Survival",
+      "Father Daughter Bond",
+      "Cordyceps",
+      "Infected",
+      "Human Drama"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Foundations (Season 3)",
+    "genres": ["Science Fiction", "Drama"],
+    "description": "Enemies gather in the shadow of the Foundation, and the fate of humanity hangs in the balance as revolutionary forces threaten galactic order.",
+    "year": 2025,
+    "keywords": [
+      "Isaac Asimov",
+      "Galactic Empire",
+      "Psychohistory",
+      "Space Opera",
+      "Foundation Series",
+      "Seldon Plan",
+      "Galactic Civilization"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Chef's Table: Legends",
+    "genres": ["Documentary", "Culinary"],
+    "description": "A deep dive into the kitchens and lives of legendary chefs including Jamie Oliver and Alice Waters, blending artful cinematography with their personal stories.",
+    "year": 2024,
+    "keywords": [
+      "Celebrity Chefs",
+      "Culinary Documentary",
+      "Fine Dining",
+      "Food Culture",
+      "Cooking Techniques",
+      "Restaurant Industry",
+      "Chef Profiles"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Race Against Time",
+    "genres": ["Documentary", "History"],
+    "description": "Survivors of Hurricane Katrina recount the disaster's 20th anniversary, exploring how their city was transformed and what lessons were learned.",
+    "year": 2025,
+    "keywords": [
+      "Hurricane Katrina",
+      "Natural Disaster",
+      "New Orleans",
+      "Survivor Stories",
+      "Climate Change",
+      "Reconstruction",
+      "Documentary"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Companion",
+    "genres": ["Thriller", "Drama"],
+    "description": "A weekend getaway turns to chaos as secrets emerge, challenging the trust among friends in a remote cabin.",
+    "year": 2024,
+    "keywords": [
+      "Weekend Getaway",
+      "Friendship Betrayal",
+      "Cabin Thriller",
+      "Secrets Revealed",
+      "Isolation",
+      "Psychological Thriller",
+      "Trust Issues"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Wake Up Dead Man: A Knives Out Mystery",
+    "genres": ["Mystery", "Crime", "Comedy"],
+    "description": "Detective Benoit Blanc faces his most dangerous case yet, navigating twists, secrets, and high-stakes drama in a sequel to Glass Onion.",
+    "year": 2025,
+    "keywords": [
+      "Benoit Blanc",
+      "Whodunit",
+      "Murder Mystery",
+      "Detective",
+      "Ensemble Cast",
+      "Knives Out Sequel",
+      "Southern Detective"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Thunderbolts",
+    "genres": ["Action", "Adventure", "Comic Book"],
+    "description": "An unconventional group of antiheroes confront their pasts in a perilous mission that exposes the darkest corners of their lives.",
+    "year": 2025,
+    "keywords": [
+      "Marvel",
+      "Antiheroes",
+      "Superhero Team",
+      "Redemption",
+      "Villains Turned Heroes",
+      "Mcu",
+      "Action Adventure"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Weapons",
+    "genres": ["Drama", "Thriller", "Mystery"],
+    "description": "A shocking disappearance shakes a community when all but one child from the same class vanish simultaneously, raising questions no one can answer.",
+    "year": 2025,
+    "keywords": [
+      "Missing Children",
+      "Mass Disappearance",
+      "Community Mystery",
+      "School Tragedy",
+      "Supernatural Thriller",
+      "Family Drama",
+      "Unexplained Phenomenon"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Avatar: Fire and Ash",
+    "genres": ["Science Fiction", "Adventure"],
+    "description": "Jake and Neytiri's family mourns the loss of Neteyam as they encounter the Ash People, reigniting conflict and struggle on Pandora.",
+    "year": 2025,
+    "keywords": [
+      "Pandora",
+      "Na'Vi",
+      "James Cameron",
+      "Ash People",
+      "Alien World",
+      "Environmental Themes",
+      "Family Saga"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "F1: The Movie",
+    "genres": ["Drama", "Sports"],
+    "description": "A retired Formula One driver joins forces with a younger racer, blending mentorship and high-speed adrenaline in a race for glory.",
+    "year": 2025,
+    "keywords": [
+      "Formula One",
+      "Racing",
+      "Motorsport",
+      "Mentor Relationship",
+      "Competition",
+      "Speed",
+      "Adrenaline"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "genres": ["Action", "Thriller"],
+    "description": "The IMF team faces off against a rogue AI named Entity in a global race to stop a catastrophic world-ending threat.",
+    "year": 2025,
+    "keywords": [
+      "Ethan Hunt",
+      "Imf",
+      "Spy Thriller",
+      "Artificial Intelligence",
+      "Action Stunts",
+      "Global Threat",
+      "Tom Cruise"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Sorry, Baby",
+    "genres": ["Drama", "Romance"],
+    "description": "After a tragedy, Agnes's world falls apart while those around her continue on, exposing deep emotional truths and resilience.",
+    "year": 2025,
+    "keywords": [
+      "Grief",
+      "Tragedy",
+      "Emotional Drama",
+      "Resilience",
+      "Healing",
+      "Loss",
+      "Human Connection"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "One Battle After Another",
+    "genres": ["Action", "Drama"],
+    "description": "A group of ex-revolutionaries unite to rescue a friend's daughter following the return of a powerful enemy after 16 years.",
+    "year": 2025,
+    "keywords": [
+      "Revolutionaries",
+      "Rescue Mission",
+      "Old Enemies",
+      "Political Action",
+      "Reunion",
+      "Family Bonds",
+      "Resistance"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Tron: Ares",
+    "genres": ["Science Fiction", "Action"],
+    "description": "A highly advanced Program named Ares is sent to the real world on a critical mission, challenging the boundaries between digital and human existence.",
+    "year": 2025,
+    "keywords": [
+      "Digital World",
+      "Virtual Reality",
+      "Computer Programs",
+      "Cyberpunk",
+      "Tron Legacy",
+      "Artificial Beings",
+      "Technology Thriller"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Wicked: For Good",
+    "genres": ["Fantasy", "Musical"],
+    "description": "Elphaba's relationship with Glinda leads them down separate paths in the finale to the acclaimed adaptation of Broadway's Wicked.",
+    "year": 2025,
+    "keywords": [
+      "Broadway Musical",
+      "Wizard Of Oz",
+      "Elphaba",
+      "Glinda",
+      "Friendship",
+      "Witches",
+      "Musical Theater"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Superman",
+    "genres": ["Action", "Superhero", "Drama"],
+    "description": "Clark Kent reconciles his Kryptonian heritage and human identity as he faces a modern world skeptical of his ideals.",
+    "year": 2025,
+    "keywords": [
+      "Superman",
+      "Clark Kent",
+      "Dc Comics",
+      "Superhero",
+      "Krypton",
+      "Dual Identity",
+      "Modern Heroism"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Mo (Season 2)",
+    "genres": ["Comedy", "Drama"],
+    "description": "Mo Amer's Netflix comedy dives deeper into immigration politics, blending Palestinian, American, and Mexican cultures with dry humor.",
+    "year": 2024,
+    "keywords": [
+      "Immigration",
+      "Palestinian American",
+      "Cultural Identity",
+      "Stand-Up Comedy",
+      "Refugee Experience",
+      "Mo Amer",
+      "Multicultural"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Common Side Effects",
+    "genres": ["Animation", "Comedy"],
+    "description": "A man discovers a wonder mushroom cure, but Big Pharma hunts him down in this animated satire exploring health and absurdity.",
+    "year": 2024,
+    "keywords": [
+      "Pharmaceutical Industry",
+      "Animated Comedy",
+      "Health Satire",
+      "Big Pharma",
+      "Alternative Medicine",
+      "Conspiracy",
+      "Medical Thriller"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Fallout (Season 1)",
+    "genres": ["Science Fiction", "Drama", "Action"],
+    "description": "Set in a post-apocalyptic future, a Vault dweller journeys through the devastated American wasteland, encountering mutated creatures and clashing factions as she uncovers secrets about humanity's survival.",
+    "year": 2024,
+    "keywords": [
+      "Fallout Game",
+      "Post-Nuclear",
+      "Vault Dweller",
+      "Wasteland",
+      "Radiation",
+      "Brotherhood Of Steel",
+      "Pip-Boy"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Sh\u014dgun (Season 1)",
+    "genres": ["Historical", "Drama", "Epic"],
+    "description": "Adapted from James Clavell's novel, an English navigator shipwrecks in feudal Japan and navigates political intrigue, samurai culture, and forbidden romance at the dawn of a new era.",
+    "year": 2024,
+    "keywords": [
+      "Feudal Japan",
+      "Samurai",
+      "Cultural Clash",
+      "James Clavell",
+      "Shogun Era",
+      "Historical Epic",
+      "East Meets West"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Echo (Season 1)",
+    "genres": ["Action", "Superhero", "Crime"],
+    "description": "Maya Lopez returns to her hometown, confronting her criminal family and facing her legacy. Set in the MCU, Echo combines intense action with personal redemption.",
+    "year": 2024,
+    "keywords": [
+      "Marvel",
+      "Native American",
+      "Deaf Character",
+      "Hawkeye Spinoff",
+      "Kingpin",
+      "Vigilante",
+      "Family Legacy"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Ripley (Season 1)",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "description": "Tom Ripley, a charming conman, is hired to persuade a wealthy acquaintance to return to America, but the job plunges him into a world of deception, murder, and identity theft.",
+    "year": 2024,
+    "keywords": [
+      "Tom Ripley",
+      "Con Artist",
+      "Patricia Highsmith",
+      "Identity Theft",
+      "Psychological Thriller",
+      "Talented Mr Ripley",
+      "Sociopath"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "The Three-Body Problem (Season 1)",
+    "genres": ["Science Fiction", "Fantasy", "Drama"],
+    "description": "Humanity faces a mysterious extraterrestrial threat after a Chinese scientist makes first contact, forcing unlikely collaborators to prevent Earth's destruction in this visually stunning adaptation.",
+    "year": 2024,
+    "keywords": [
+      "Liu Cixin",
+      "First Contact",
+      "Alien Invasion",
+      "Hard Science Fiction",
+      "Cultural Revolution",
+      "Virtual Reality",
+      "Trisolaris"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Expats",
+    "genres": ["Drama", "Thriller"],
+    "description": "A group of American women living in Hong Kong form a fragile community, dealing with personal loss and cultural challenges amid international intrigue.",
+    "year": 2024,
+    "keywords": [
+      "Hong Kong",
+      "Expatriate Life",
+      "American Abroad",
+      "Cultural Displacement",
+      "Women'S Drama",
+      "International Community",
+      "Identity Crisis"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "True Detective: Night Country (Season 4)",
+    "genres": ["Crime", "Mystery", "Drama"],
+    "description": "Detective Liz Danvers investigates a chilling case in Arctic Alaska as supernatural elements and personal demons blur the line between reality and myth.",
+    "year": 2024,
+    "keywords": [
+      "Arctic Setting",
+      "Supernatural Mystery",
+      "Female Detective",
+      "Alaska",
+      "Indigenous Mythology",
+      "Polar Night",
+      "Psychological Horror"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Oppenheimer",
+    "genres": ["Biography", "Historical", "Drama"],
+    "description": "J. Robert Oppenheimer grapples with scientific breakthroughs and moral dilemmas as the founder of the atomic bomb in Christopher Nolan's acclaimed historical drama.",
+    "year": 2023,
+    "keywords": [
+      "Atomic Bomb",
+      "Manhattan Project",
+      "Nuclear Physics",
+      "World War Ii",
+      "Moral Dilemma",
+      "Los Alamos",
+      "Christopher Nolan"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Dune: Part Two",
+    "genres": ["Science Fiction", "Adventure", "Drama"],
+    "description": "Paul Atreides unites Fremen to avenge his house and fulfill a prophecy, as galactic war and personal destiny shape the fate of Arrakis.",
+    "year": 2024,
+    "keywords": [
+      "Dune",
+      "Paul Atreides",
+      "Arrakis",
+      "Fremen",
+      "Spice",
+      "Desert Planet",
+      "Frank Herbert"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Barbie",
+    "genres": ["Comedy", "Fantasy"],
+    "description": "When Barbie is expelled from Barbieland, she sets out on a journey of self-discovery in the real world. The movie blends satire, adventure, and heartfelt moments.",
+    "year": 2023,
+    "keywords": [
+      "Barbie Doll",
+      "Pink Aesthetic",
+      "Gender Satire",
+      "Toy Story",
+      "Self-Discovery",
+      "Fantasy Comedy",
+      "Greta Gerwig"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "The Regime",
+    "genres": ["Drama", "Political Thriller"],
+    "description": "A European autocrat faces paranoia, betrayal, and revolution as her regime teeters on the edge, exploring morality in power's shadow.",
+    "year": 2024,
+    "keywords": [
+      "Political Satire",
+      "Autocracy",
+      "European Politics",
+      "Power Corruption",
+      "Dictatorship",
+      "Regime Change",
+      "Political Thriller"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Invincible (Season 2)",
+    "genres": ["Animation", "Superhero", "Drama"],
+    "description": "Teen hero Mark Grayson balances family, romance, and bloody battles as Invincible, discovering new challenges and cosmic threats in the latest season.",
+    "year": 2024,
+    "keywords": [
+      "Superhero Animation",
+      "Coming Of Age",
+      "Violent Superhero",
+      "Omni-Man",
+      "Teen Hero",
+      "Cosmic Threats",
+      "Robert Kirkman"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Jury Duty",
+    "genres": ["Comedy", "Reality", "Mockumentary"],
+    "description": "A regular guy, Ronald Gladden, believes he's serving jury duty on an ordinary civil trial, unaware that the entire proceeding is fake and everyone around him — from the judge to his fellow jurors — are actors in a carefully staged social experiment blending scripted humor and genuine reactions.",
+    "year": 2023,
+    "keywords": [
+      "Mockumentary",
+      "Courtroom Comedy",
+      "Social Experiment",
+      "Hidden Camera",
+      "Fake Trial",
+      "Improvisational Acting",
+      "Reality Hoax"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Constellation",
+    "genres": ["Science Fiction", "Thriller", "Drama"],
+    "description": "After surviving a disaster aboard the International Space Station, astronaut Jo attempts to reunite with her family but discovers reality may be forever altered.",
+    "year": 2024,
+    "keywords": [
+      "Space Station",
+      "Astronaut",
+      "Reality Distortion",
+      "Space Accident",
+      "Parallel Dimensions",
+      "Family Reunion",
+      "Psychological Sci-Fi"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Abbott Elementary (Season 3)",
+    "genres": ["Comedy"],
+    "description": "Teachers at a struggling Philadelphia public school battle bureaucracy and budget woes with wit and camaraderie. Season 3 deepens friendships and tackles new classroom chaos.",
+    "year": 2024,
+    "keywords": [
+      "Elementary School",
+      "Public Education",
+      "Teachers",
+      "Philadelphia",
+      "Mockumentary",
+      "Classroom Comedy",
+      "Education System"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Maestro",
+    "genres": ["Biography", "Drama", "Romance"],
+    "description": "A portrait of legendary conductor Leonard Bernstein, detailing his musical genius, tumultuous marriage, and enduring legacy within American culture.",
+    "year": 2023,
+    "keywords": [
+      "Leonard Bernstein",
+      "Classical Music",
+      "Conductor",
+      "West Side Story",
+      "Broadway",
+      "Musical Biography",
+      "Bradley Cooper"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Past Lives",
+    "genres": ["Drama", "Romance"],
+    "description": "Childhood friends separated by immigration are reunited decades later, confronting fate, longing, and the nature of true love in this acclaimed Oscar-nominated drama.",
+    "year": 2023,
+    "keywords": [
+      "Childhood Love",
+      "Immigration",
+      "Korean American",
+      "Reunion",
+      "Fate",
+      "What If",
+      "Romantic Drama"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "American Fiction",
+    "genres": ["Comedy", "Drama"],
+    "description": "A frustrated novelist lampoons Black stereotypes and finds unexpected fame, blurring the line between satire and reality in this award-winning film.",
+    "year": 2023,
+    "keywords": [
+      "Racial Satire",
+      "Publishing Industry",
+      "Black Author",
+      "Literary Fiction",
+      "Cultural Commentary",
+      "Writer'S Struggle",
+      "Social Criticism"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Poor Things",
+    "genres": ["Comedy", "Science Fiction", "Drama"],
+    "description": "Bella Baxter, brought back to life by an eccentric scientist, explores womanhood and freedom in a surreal, Oscar-winning fantasy.",
+    "year": 2023,
+    "keywords": [
+      "Frankenstein",
+      "Sexual Awakening",
+      "Victorian Era",
+      "Surreal Comedy",
+      "Feminist Fantasy",
+      "Body Horror",
+      "Yorgos Lanthimos"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "The Bear (Season 3)",
+    "genres": ["Drama", "Comedy"],
+    "description": "Carmy and his frenetic kitchen crew confront new pressures and ambition after their Emmy wins, balancing chaos and creativity in a beloved Chicago restaurant.",
+    "year": 2024,
+    "keywords": [
+      "Restaurant Kitchen",
+      "Chef Life",
+      "Chicago",
+      "Workplace Stress",
+      "Culinary Pressure",
+      "Team Dynamics",
+      "Fine Dining"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "The Gilded Age (Season 2)",
+    "genres": ["Drama", "Historical"],
+    "description": "Old money and new money compete in 1880s New York, with society scandals and family ambitions colliding on HBO's Emmy-lauded period drama.",
+    "year": 2023,
+    "keywords": [
+      "Gilded Age",
+      "New York Society",
+      "Old Money",
+      "New Money",
+      "1880S",
+      "Social Climbing",
+      "Period Drama"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Succession (Season 4)",
+    "genres": ["Drama", "Satire"],
+    "description": "The ruthless Roy family's power struggle for control over their media empire reaches its shocking conclusion in the Emmy\u2013sweeping finale.",
+    "year": 2023,
+    "keywords": [
+      "Media Dynasty",
+      "Family Business",
+      "Power Struggle",
+      "Corporate Drama",
+      "Succession Planning",
+      "Roy Family",
+      "Media Mogul"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "The Crown (Season 6)",
+    "genres": ["Drama", "Historical"],
+    "description": "The BAFTA favorite depicts the final years of Queen Elizabeth II's reign, capturing royal family drama and the changing tide in modern Britain.",
+    "year": 2023,
+    "keywords": [
+      "British Royalty",
+      "Queen Elizabeth Ii",
+      "Royal Family",
+      "Monarchy",
+      "Princess Diana",
+      "Windsor Family",
+      "Modern Britain"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Beef",
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "description": "A road rage incident spirals into obsession, revenge, and dark humor as two strangers' lives unravel in this Emmy-winning limited series.",
+    "year": 2023,
+    "keywords": [
+      "Road Rage",
+      "Revenge",
+      "Korean American",
+      "Psychological Thriller",
+      "Dark Comedy",
+      "Steven Yeun",
+      "Escalation"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Anatomy of a Fall",
+    "genres": ["Thriller", "Drama", "Crime"],
+    "description": "A woman faces trial for her husband's mysterious death in a gripping courtroom drama that swept the Cannes Film Festival and the Oscars.",
+    "year": 2023,
+    "keywords": [
+      "Courtroom Drama",
+      "Murder Mystery",
+      "Marriage Secrets",
+      "Legal Thriller",
+      "French Cinema",
+      "Family Dynamics",
+      "Ambiguous Ending"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "genres": ["Animation", "Superhero", "Adventure"],
+    "description": "Miles Morales travels the multiverse alongside Gwen Stacy, encountering an elite team of Spider-People in a visually dazzling, award-winning animated adventure.",
+    "year": 2023,
+    "keywords": [
+      "Spider-Man",
+      "Multiverse",
+      "Miles Morales",
+      "Spider-Verse",
+      "Animation",
+      "Superhero Team",
+      "Coming Of Age"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "All of Us Strangers",
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "description": "A lonely screenwriter encounters his deceased parents and a mysterious neighbor, blurring reality and longing in this acclaimed film festival darling.",
+    "year": 2023,
+    "keywords": [
+      "Ghost Story",
+      "Grief",
+      "Gay Romance",
+      "Family Trauma",
+      "Supernatural Drama",
+      "Emotional Healing",
+      "Loneliness"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "The Marvelous Mrs. Maisel (Season 5)",
+    "genres": ["Comedy", "Drama"],
+    "description": "In her final act, Midge Maisel's wit and ambition close out her Emmy\u2013winning journey, making comedy history one last time.",
+    "year": 2023,
+    "keywords": [
+      "1950S Comedy",
+      "Female Comedian",
+      "Jewish American",
+      "New York",
+      "Stand-Up Comedy",
+      "Show Business",
+      "Period Comedy"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "One Piece (Season 1)",
+    "genres": ["Adventure", "Action", "Fantasy"],
+    "description": "The live-action adaptation of the celebrated manga follows Monkey D. Luffy and his renegade crew on a swashbuckling quest for the Grand Line's fabled treasure.",
+    "year": 2023,
+    "keywords": [
+      "Anime Adaptation",
+      "Pirate Adventure",
+      "Manga",
+      "Treasure Hunt",
+      "Straw Hat Pirates",
+      "Devil Fruit",
+      "Grand Line"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Reservation Dogs (Season 4)",
+    "genres": ["Comedy", "Drama", "Indigenous"],
+    "description": "Four Indigenous teens in rural Oklahoma face dreams, grief, and adulthood with resilient humor in this Peabody Award\u2013winning FX series.",
+    "year": 2023,
+    "keywords": [
+      "Native American",
+      "Indigenous Youth",
+      "Oklahoma",
+      "Coming Of Age",
+      "Reservation Life",
+      "Cultural Identity",
+      "Teen Comedy"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Mr. & Mrs. Smith (Season 1)",
+    "genres": ["Action", "Drama", "Comedy"],
+    "description": "Two secret agents enter an arranged marriage, balancing spycraft and domesticity in this stylish, Emmy\u2013buzzed reboot of the action-romance classic.",
+    "year": 2024,
+    "keywords": [
+      "Spy Couple",
+      "Arranged Marriage",
+      "Secret Agents",
+      "Domestic Life",
+      "Action Comedy",
+      "Relationship Drama",
+      "Undercover"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Society of the Snow",
+    "genres": ["Drama", "Survival", "Biography"],
+    "description": "The harrowing real-life tale of survivors of the 1972 Uruguayan Andes plane crash, painstakingly recreated in this Oscar-nominated international film.",
+    "year": 2023,
+    "keywords": [
+      "Plane Crash",
+      "Survival Story",
+      "Andes Mountains",
+      "Cannibalism",
+      "True Story",
+      "Uruguayan Rugby",
+      "Extreme Survival"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "The Holdovers",
+    "genres": ["Comedy", "Drama", "Holiday"],
+    "description": "A curmudgeonly teacher at a New England prep school remains on campus over winter break with a small group, discovering unlikely friendship and growth.",
+    "year": 2023,
+    "keywords": [
+      "Boarding School",
+      "Christmas Story",
+      "Unlikely Friendship",
+      "Coming Of Age",
+      "New England",
+      "Prep School",
+      "Mentor Student"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "The Last of Us (Season 1)",
+    "genres": ["Drama", "Science Fiction", "Thriller"],
+    "description": "A hardened survivor and a teenage girl cross a dangerous post-pandemic America. The Emmy\u2013winning adaptation delivers emotion, terror, and hope.",
+    "year": 2023,
+    "keywords": [
+      "Zombie Apocalypse",
+      "Cordyceps Fungus",
+      "Post-Apocalyptic",
+      "Father Daughter",
+      "Survival Horror",
+      "Video Game Adaptation",
+      "Infected"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "The Zone of Interest",
+    "genres": ["Drama", "War", "Foreign"],
+    "description": "The director of Auschwitz builds a dream home next to the camp, exploring horror and denial through the neighbor's seemingly ordinary family life.",
+    "year": 2023,
+    "keywords": [
+      "Holocaust",
+      "Auschwitz",
+      "Nazi Germany",
+      "Moral Blindness",
+      "Historical Drama",
+      "War Crimes",
+      "Family Denial"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "The French Dispatch",
+    "genres": ["Comedy", "Drama", "Anthology"],
+    "description": "Wes Anderson's whimsical film presents a trio of stories from the staff of a fictional American magazine's outpost in a French city.",
+    "year": 2021,
+    "keywords": [
+      "Wes Anderson",
+      "Anthology Film",
+      "French Setting",
+      "Magazine Stories",
+      "Quirky Comedy",
+      "Journalist",
+      "Artistic Style"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "The Boys (Season 4)",
+    "genres": ["Action", "Drama", "Dark Comedy"],
+    "description": "As super-powered corruption escalates, a ragtag group battles supes and conspiracy, blurring lines between heroism and monstrosity.",
+    "year": 2024,
+    "keywords": [
+      "Anti-Superhero",
+      "Corrupt Heroes",
+      "Vigilante",
+      "Homelander",
+      "Corporate Superheroes",
+      "Violence",
+      "Dark Satire"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Slow Horses (Season 3)",
+    "genres": ["Thriller", "Spy", "Drama"],
+    "description": "A team of disgraced MI5 agents investigates British intelligence scandals and deadly conspiracies with wit and tenacity.",
+    "year": 2023,
+    "keywords": [
+      "British Spy",
+      "Mi5",
+      "Intelligence",
+      "Jackson Lamb",
+      "Espionage",
+      "Government Conspiracy",
+      "Slough House"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Silo (Season 2)",
+    "genres": ["Science Fiction", "Thriller", "Drama"],
+    "description": "Juliette investigates deeper secrets below Earth's last silo, discovering revelations that threaten to upend the only world the survivors have known.",
+    "year": 2024,
+    "keywords": [
+      "Underground Bunker",
+      "Post-Apocalyptic",
+      "Dystopian Society",
+      "Hugh Howey",
+      "Silo Series",
+      "Mystery",
+      "Survival"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "The Morning Show (Season 4)",
+    "genres": ["Drama", "Media", "Political"],
+    "description": "Behind-the-scenes power struggles and personal intrigue at a top morning news program reflect changing media, #MeToo, and national crises.",
+    "year": 2024,
+    "keywords": [
+      "Morning Television",
+      "Media Industry",
+      "Workplace Drama",
+      "News Anchor",
+      "Metoo Movement",
+      "Television Politics",
+      "Journalism"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Ted Lasso (Season 3)",
+    "genres": ["Comedy", "Sports", "Drama"],
+    "description": "American coach Ted Lasso brings optimism and chaos to a struggling British football team, confronting rivalries, romance, and the heart of teamwork.",
+    "year": 2023,
+    "keywords": [
+      "Soccer Coach",
+      "Fish Out Of Water",
+      "Optimism",
+      "British Football",
+      "American Abroad",
+      "Team Building",
+      "Heartwarming"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "The Fall of the House of Usher",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "description": "The last members of a wealthy, corrupt dynasty confront fate, family secrets, and supernatural revenge in this Poe-inspired gothic drama.",
+    "year": 2023,
+    "keywords": [
+      "Edgar Allan Poe",
+      "Gothic Horror",
+      "Family Curse",
+      "Wealthy Dynasty",
+      "Supernatural",
+      "Corporate Corruption",
+      "Mike Flanagan"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Wednesday (Season 2)",
+    "genres": ["Comedy", "Mystery", "Fantasy"],
+    "description": "Wednesday Addams solves supernatural mysteries at Nevermore Academy, confronting growing power and dark family legacy.",
+    "year": 2025,
+    "keywords": [
+      "Wednesday Addams",
+      "Addams Family",
+      "Boarding School",
+      "Gothic Comedy",
+      "Supernatural Mystery",
+      "Teenage Goth",
+      "Nevermore Academy"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Loki (Season 2)",
+    "genres": ["Science Fiction", "Fantasy", "Superhero"],
+    "description": "Loki and Mobius face chaos in the multiverse as alliances, betrayals, and destiny define gods and dimensions alike.",
+    "year": 2023,
+    "keywords": [
+      "Marvel",
+      "Time Variance Authority",
+      "Multiverse",
+      "Trickster God",
+      "Time Travel",
+      "Loki Laufeyson",
+      "Temporal Mechanics"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Andor (Season 2)",
+    "genres": ["Science Fiction", "Action", "Adventure"],
+    "description": "The rebellion ignites as Cassian Andor's espionage shapes the galaxy's fate in the lead-up to the original Star Wars trilogy.",
+    "year": 2025,
+    "keywords": [
+      "Star Wars",
+      "Rebellion",
+      "Rogue One Prequel",
+      "Cassian Andor",
+      "Empire",
+      "Galactic Civil War",
+      "Spy Thriller"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Severance (Season 1)",
+    "genres": ["Drama", "Science Fiction", "Thriller"],
+    "description": "A mysterious procedure splits work and home lives for Lumon employees, unraveling conspiracies about control and identity.",
+    "year": 2022,
+    "keywords": [
+      "Memory Separation",
+      "Corporate Dystopia",
+      "Work Life Balance",
+      "Psychological Thriller",
+      "Mind Control",
+      "Office Horror",
+      "Identity Crisis"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Only Murders in the Building (Season 4)",
+    "genres": ["Comedy", "Mystery"],
+    "description": "Three amateur sleuths investigate ever twistier murders in their New York apartment building while fueling a hit podcast.",
+    "year": 2024,
+    "keywords": [
+      "Murder Mystery",
+      "Podcast",
+      "Apartment Building",
+      "Amateur Detective",
+      "True Crime",
+      "New York",
+      "Comedy Mystery"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "The Mandalorian (Season 4)",
+    "genres": ["Action", "Science Fiction", "Adventure"],
+    "description": "Din Djarin and Grogu journey deeper into Mandalorian lore, facing new allies, old enemies, and the growing threat to the galaxy's balance.",
+    "year": 2025,
+    "keywords": [
+      "Star Wars",
+      "Bounty Hunter",
+      "Baby Yoda",
+      "Mandalorian Culture",
+      "Grogu",
+      "Space Western",
+      "Din Djarin"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "House of the Dragon (Season 2)",
+    "genres": ["Fantasy", "Drama", "Action"],
+    "description": "Targaryen civil war looms as dragons and rival claimants threaten to split the Seven Kingdoms, leading to legend-shaping conflict.",
+    "year": 2024,
+    "keywords": [
+      "Game Of Thrones Prequel",
+      "Targaryen Dynasty",
+      "Dragons",
+      "Civil War",
+      "Westeros",
+      "Dance Of Dragons",
+      "House Targaryen"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Yellowjackets (Season 3)",
+    "genres": ["Thriller", "Drama", "Mystery"],
+    "description": "Adult survivors of a wilderness plane crash unravel more secrets as their past decisions and traumas resurface, merging horror and psychological suspense.",
+    "year": 2025,
+    "keywords": [
+      "Survival Horror",
+      "Plane Crash Survivors",
+      "Cannibalism",
+      "Teenage Trauma",
+      "Psychological Thriller",
+      "Wilderness",
+      "Female Ensemble"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Shrinking",
+    "genres": ["Comedy", "Drama"],
+    "description": "A therapist breaks long-held rules and starts telling patients exactly what he thinks, causing upheaval in their lives\u2014and his own.",
+    "year": 2023,
+    "keywords": [
+      "Therapy",
+      "Grief Counseling",
+      "Unconventional Treatment",
+      "Mental Health",
+      "Jason Segel",
+      "Therapist Patient",
+      "Emotional Healing"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Fargo (Season 5)",
+    "genres": ["Drama", "Crime", "Thriller"],
+    "description": "A new cast contends with Midwestern crime, violence, and oddball detectives in the wildly creative anthology series inspired by the Coen Brothers.",
+    "year": 2023,
+    "keywords": [
+      "Midwest Crime",
+      "Anthology Series",
+      "Coen Brothers",
+      "Dark Comedy",
+      "Small Town",
+      "Crime Drama",
+      "Quirky Characters"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Lessons in Chemistry (Miniseries)",
+    "genres": ["Drama", "History"],
+    "description": "In 1960s America, chemist Elizabeth Zott rebounds from sexism by hosting a cooking show that challenges stereotypes and inspires generations.",
+    "year": 2023,
+    "keywords": [
+      "Female Scientist",
+      "Cooking Show",
+      "1960S Feminism",
+      "Chemistry",
+      "Gender Equality",
+      "Television Pioneer",
+      "Scientific Cooking"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "The Diplomat (Season 1)",
+    "genres": ["Drama", "Political", "Thriller"],
+    "description": "The new U.S. ambassador to the U.K. juggles global crises, high-stakes diplomacy, and her complex marriage in this tense political drama.",
+    "year": 2023,
+    "keywords": [
+      "Diplomacy",
+      "International Relations",
+      "Ambassador",
+      "Political Thriller",
+      "Marriage Crisis",
+      "Foreign Policy",
+      "Uk Us Relations"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Killers of the Flower Moon",
+    "genres": ["Crime", "History", "Drama"],
+    "description": "Martin Scorsese's epic about the Osage Nation murders explores greed, betrayal, and justice in 1920s Oklahoma.",
+    "year": 2023,
+    "keywords": [
+      "Osage Murders",
+      "Native American",
+      "Oil Money",
+      "1920S Oklahoma",
+      "True Crime",
+      "Martin Scorsese",
+      "Racial Violence"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Saltburn",
+    "genres": ["Drama", "Thriller", "Comedy"],
+    "description": "A college outsider's invitation to an aristocratic estate unravels secrets, obsession, and twisted relationships in this acclaimed satire.",
+    "year": 2023,
+    "keywords": [
+      "Class Satire",
+      "British Aristocracy",
+      "Obsession",
+      "Elite Society",
+      "Psychological Thriller",
+      "Wealth Disparity",
+      "Social Climbing"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Asteroid City",
+    "genres": ["Comedy", "Drama", "Science Fiction"],
+    "description": "During a junior stargazer convention in 1955, chaos ensues as residents, scientists, and visitors become entangled in Wes Anderson's meticulously designed world.",
+    "year": 2023,
+    "keywords": [
+      "Wes Anderson",
+      "1950S Americana",
+      "Quirky Comedy",
+      "Stargazing",
+      "Ensemble Cast",
+      "Retro Aesthetic",
+      "Small Town"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "The Curse (Season 1)",
+    "genres": ["Comedy", "Satire", "Drama"],
+    "description": "A couple's new HGTV show appears cursed, spiraling their lives into surreal disasters and darkly hilarious moments.",
+    "year": 2023,
+    "keywords": [
+      "Reality Tv Satire",
+      "Home Renovation",
+      "Marriage Comedy",
+      "Meta Commentary",
+      "Television Industry",
+      "Relationship Drama",
+      "Dark Humor"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "The New Look (Season 1)",
+    "genres": ["Drama", "History", "Fashion"],
+    "description": "Christian Dior and Coco Chanel battle to define French fashion's legacy amid war, innovation, and scandal.",
+    "year": 2024,
+    "keywords": [
+      "Christian Dior",
+      "Coco Chanel",
+      "Fashion History",
+      "French Couture",
+      "Post-War Paris",
+      "Fashion Rivalry",
+      "Haute Couture"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Unstable",
+    "genres": ["Comedy", "Drama"],
+    "description": "A biotech genius and his socially awkward son bond and bicker while saving the family company from chaos.",
+    "year": 2023,
+    "keywords": [
+      "Father Son",
+      "Biotech",
+      "Family Business",
+      "Workplace Comedy",
+      "Startup Culture",
+      "Social Awkwardness",
+      "Generational Gap"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Dead Ringers",
+    "genres": ["Psychological Thriller", "Drama"],
+    "description": "Twin gynecologists push the boundaries of medical ethics and co-dependency, spiraling into darkness in this feminist thriller.",
+    "year": 2023,
+    "keywords": [
+      "Twin Doctors",
+      "Medical Thriller",
+      "Gynecology",
+      "Feminist Horror",
+      "Medical Ethics",
+      "Psychological Drama",
+      "Body Horror"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "The Marvels",
+    "genres": ["Action", "Science Fiction", "Superhero"],
+    "description": "Carol Danvers, Kamala Khan, and Monica Rambeau unite to face a cosmic entanglement, blending Marvel action with character-driven humor.",
+    "year": 2023,
+    "keywords": [
+      "Marvel",
+      "Captain Marvel",
+      "Ms Marvel",
+      "Photon",
+      "Female Superheroes",
+      "Cosmic Adventure",
+      "Power Switching"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Swift Horses",
+    "genres": ["Drama", "Romance", "Indie"],
+    "description": "A newlywed couple's fragile peace is disrupted by the husband's enigmatic brother's arrival, set against the restless backdrop of 1950s America.",
+    "year": 2024,
+    "keywords": [
+      "1950S America",
+      "Family Secrets",
+      "Marriage Drama",
+      "Brother Rivalry",
+      "Post-War",
+      "Indie Drama",
+      "Family Tension"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Griselda",
+    "genres": ["Crime", "Biography", "Drama"],
+    "description": "The rise of Griselda Blanco, the notorious Colombian businesswoman and drug lord, exposes brutality, empowerment, and the dark side of ambition.",
+    "year": 2024,
+    "keywords": [
+      "Griselda Blanco",
+      "Drug Cartel",
+      "Female Crime Boss",
+      "Colombian",
+      "Cocaine Queenpin",
+      "True Crime",
+      "Miami Drug Wars"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "The Iron Claw",
+    "genres": ["Biography", "Drama", "Sports"],
+    "description": "The Von Erich wrestling dynasty's towering success and tragic family losses become an emotional saga of fame and resilience.",
+    "year": 2023,
+    "keywords": [
+      "Von Erich Family",
+      "Professional Wrestling",
+      "Texas Wrestling",
+      "Family Tragedy",
+      "Wrestling Dynasty",
+      "Sports Biography",
+      "Wwe"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Priscilla",
+    "genres": ["Biography", "Drama"],
+    "description": "Sofia Coppola's subtle drama explores Priscilla Presley's life with Elvis, focusing on love, control, and autonomy in the shadow of fame.",
+    "year": 2023,
+    "keywords": [
+      "Priscilla Presley",
+      "Elvis Presley",
+      "Graceland",
+      "Rock And Roll",
+      "Marriage Drama",
+      "Sofia Coppola",
+      "Celebrity Romance"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Napoleon",
+    "genres": ["Biography", "Drama", "War"],
+    "description": "Joaquin Phoenix stars as Napoleon Bonaparte, tracing his campaigns and relationship with Josephine across epic European battlefields.",
+    "year": 2023,
+    "keywords": [
+      "Napoleon Bonaparte",
+      "French Emperor",
+      "Military Conquest",
+      "Josephine",
+      "European History",
+      "War Epic",
+      "Ridley Scott"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Drive-Away Dolls",
+    "genres": ["Comedy", "Crime", "Thriller"],
+    "description": "Two friends set out on a spontaneous road trip that quickly devolves into a wild caper involving criminals, mistaken identities, and misadventures.",
+    "year": 2024,
+    "keywords": [
+      "Road Trip",
+      "Female Friendship",
+      "Crime Comedy",
+      "Lesbian Romance",
+      "Caper Film",
+      "Mistaken Identity",
+      "Adventure Comedy"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "The White Darkness",
+    "genres": ["Drama", "Biography", "Adventure"],
+    "description": "Based on the true story of explorer Henry Worsley's perilous solo trek across Antarctica, this miniseries explores resilience, obsession, and the limits of human endurance.",
+    "year": 2024,
+    "keywords": [
+      "Antarctica",
+      "Polar Exploration",
+      "Survival",
+      "Henry Worsley",
+      "Extreme Endurance",
+      "True Story",
+      "Adventure Biography"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Star Wars: The Acolyte",
+    "genres": ["Science Fiction", "Action", "Adventure"],
+    "description": "Set during the final days of the High Republic, a former Padawan and her Jedi Master investigate dark side secrets while sinister forces threaten the galaxy.",
+    "year": 2024,
+    "keywords": [
+      "Star Wars",
+      "High Republic",
+      "Jedi Order",
+      "Dark Side",
+      "Sith",
+      "Padawan",
+      "Force Users"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Twisters",
+    "genres": ["Action", "Thriller", "Disaster"],
+    "description": "A new generation of storm chasers confronts the fury of nature as increasingly destructive tornadoes threaten heartland America, blending science, suspense, and survival.",
+    "year": 2024,
+    "keywords": [
+      "Tornado",
+      "Storm Chasing",
+      "Natural Disaster",
+      "Weather",
+      "Climate Change",
+      "Midwest",
+      "Extreme Weather"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Elio",
+    "genres": ["Animation", "Comedy", "Science Fiction"],
+    "description": "An imaginative boy is mistaken for Earth's leader and abducted by aliens, forced to navigate galactic diplomacy in a cosmic adventure from Pixar.",
+    "year": 2025,
+    "keywords": [
+      "Pixar",
+      "Alien Abduction",
+      "Space Adventure",
+      "Coming Of Age",
+      "Galactic Diplomacy",
+      "Mistaken Identity",
+      "Family Animation"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Berlin (Season 1)",
+    "genres": ["Drama", "Crime", "Heist"],
+    "description": "A prequel to 'Money Heist', following the origin and exploits of the enigmatic thief Berlin as he orchestrates ambitious heists before the events of the original series.",
+    "year": 2024,
+    "keywords": [
+      "Money Heist Prequel",
+      "Berlin",
+      "Heist",
+      "Spanish Series",
+      "Criminal Mastermind",
+      "La Casa De Papel",
+      "Netflix Original"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Rain Dogs",
+    "genres": ["Drama", "Comedy", "British"],
+    "description": "A working-class single mother and her young daughter navigate poverty, love, and survival in London with the help of an eccentric, privileged friend. Their unconventional bond weaves humor and heartbreak into a raw exploration of family, class, and resilience.",
+    "year": 2023,
+    "keywords": [
+      "Single Mother",
+      "Working Class",
+      "London",
+      "Found Family",
+      "Dark Comedy",
+      "Class Divide",
+      "Unconventional Friendship"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Apples Never Fall",
+    "genres": ["Drama", "Mystery", "Family"],
+    "description": "The Delaney family unravels when their matriarch disappears, exposing secrets and fractures beneath their seemingly perfect suburban life.",
+    "year": 2024,
+    "keywords": [
+      "Family Secrets",
+      "Missing Mother",
+      "Domestic Drama",
+      "Liane Moriarty",
+      "Suburban Mystery",
+      "Family Dysfunction",
+      "Australian Author"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "The Last Airbender (Season 1)",
+    "genres": ["Fantasy", "Adventure", "Family"],
+    "description": "In a war-torn world of elemental magic, young Aang awakens to master the elements and fulfill his destiny as the Avatar, uniting divided nations.",
+    "year": 2024,
+    "keywords": [
+      "Avatar",
+      "Elemental Magic",
+      "Air Nomad",
+      "Fire Nation",
+      "Bending",
+      "Anime Adaptation",
+      "Coming Of Age"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Air",
+    "genres": ["Biography", "Drama", "Sports"],
+    "description": "The story behind Nike's pursuit of rookie Michael Jordan, transforming sports marketing and sneaker culture through vision, risk, and dealmaking.",
+    "year": 2023,
+    "keywords": [
+      "Michael Jordan",
+      "Nike",
+      "Air Jordan",
+      "Sports Marketing",
+      "Basketball",
+      "Sneaker Culture",
+      "Brand Partnership"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Ferrari",
+    "genres": ["Biography", "Drama", "Sports"],
+    "description": "Enzo Ferrari risks everything in 1957, battling rivals, family tragedy, and the legendary Mille Miglia in this stylish racing biopic.",
+    "year": 2023,
+    "keywords": [
+      "Enzo Ferrari",
+      "Racing",
+      "Mille Miglia",
+      "Italian",
+      "Sports Car",
+      "Motorsport",
+      "1950S Italy"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Argylle",
+    "genres": ["Action", "Comedy", "Spy"],
+    "description": "A reclusive spy novelist's life is upended when her new book mirrors a real espionage plot, leading her on a globe-trotting adventure with twists and laughs.",
+    "year": 2024,
+    "keywords": [
+      "Spy Thriller",
+      "Novelist",
+      "Reality Vs Fiction",
+      "Espionage",
+      "Action Comedy",
+      "International Intrigue",
+      "Writer'S Life"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Atlas",
+    "genres": ["Science Fiction", "Action", "Thriller"],
+    "description": "An elite analyst must trust a rogue AI to save humanity from a new threat, but hesitation leads to high-stakes conflict and game-changing alliances.",
+    "year": 2024,
+    "keywords": [
+      "Artificial Intelligence",
+      "Rogue Ai",
+      "Human Vs Machine",
+      "Future Warfare",
+      "Technology Thriller",
+      "Ai Partnership",
+      "Jennifer Lopez"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "The Artful Dodger",
+    "genres": ["Drama", "Historical", "Crime"],
+    "description": "Set in 1850s Australia, the infamous pickpocket reinvented as a surgeon is forced back into London's criminal underworld by an old friend.",
+    "year": 2023,
+    "keywords": [
+      "Oliver Twist",
+      "Artful Dodger",
+      "Victorian Era",
+      "Surgery",
+      "Criminal Past",
+      "Australian Setting",
+      "Charles Dickens"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "The First Omen",
+    "genres": ["Horror", "Thriller"],
+    "description": "A young American is sent to work at a church in Rome, where she uncovers terrifying secrets leading to the rise of evil in this chilling franchise prequel.",
+    "year": 2024,
+    "keywords": [
+      "Omen Prequel",
+      "Catholic Church",
+      "Demonic",
+      "Supernatural Horror",
+      "Religious Thriller",
+      "Damien",
+      "Antichrist"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "genres": ["Action", "War", "Historical"],
+    "description": "Guy Ritchie directs the untold story of WWII's first covert British combat unit\u2014a band of eccentrics whose tactics changed modern warfare forever.",
+    "year": 2024,
+    "keywords": [
+      "World War Ii",
+      "British Special Forces",
+      "Covert Operations",
+      "Guy Ritchie",
+      "Unconventional Warfare",
+      "Military History",
+      "Commando Unit"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Palm Royale",
+    "genres": ["Comedy", "Drama"],
+    "description": "Set in 1969 Palm Beach, an ambitious woman will do anything to break into high society, blending satire, glamor, and cutthroat ambition.",
+    "year": 2024,
+    "keywords": [
+      "Palm Beach",
+      "High Society",
+      "Social Climbing",
+      "1960S",
+      "Country Club",
+      "Wealth Satire",
+      "Class Warfare"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Ripley",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "description": "The seductive, shape-shifting Tom Ripley infiltrates another world for fortune, freedom, and love. Each episode pushes the line between deception and reality.",
+    "year": 2024,
+    "keywords": [
+      "Tom Ripley",
+      "Con Artist",
+      "Patricia Highsmith",
+      "Identity Theft",
+      "Sociopath",
+      "Psychological Manipulation",
+      "Europe"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Pain Hustlers",
+    "genres": ["Drama", "Crime"],
+    "description": "A struggling single mother finds success at a failing pharmaceutical startup\u2014until the prosperity spirals into criminal conspiracy and moral reckoning.",
+    "year": 2023,
+    "keywords": [
+      "Pharmaceutical Crime",
+      "Opioid Crisis",
+      "Single Mother",
+      "Corporate Corruption",
+      "Medical Fraud",
+      "Drug Company",
+      "Emily Blunt"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "May December",
+    "genres": ["Drama", "Comedy"],
+    "description": "An actress researches a notorious tabloid marriage for a movie role, uncovering buried secrets and blurred lines between truth and performance.",
+    "year": 2023,
+    "keywords": [
+      "Actress Preparation",
+      "Tabloid Scandal",
+      "Age Gap Relationship",
+      "Method Acting",
+      "Media Exploitation",
+      "Uncomfortable Truth",
+      "Natalie Portman"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Brooklyn 45",
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "description": "In post-WWII Brooklyn, a group of veterans gathers for cocktails and an impromptu s\u00e9ance, but spirits and old wounds rise with sinister results.",
+    "year": 2023,
+    "keywords": [
+      "Post-War Trauma",
+      "Veterans",
+      "S\u00e9ance",
+      "Supernatural",
+      "Brooklyn",
+      "1940S",
+      "War Ptsd"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Sugar (Season 1)",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "description": "Private detective John Sugar investigates the disappearance of a Hollywood producer's granddaughter, uncovering a labyrinth of secrets beneath Los Angeles's glamorous surface.",
+    "year": 2024,
+    "keywords": [
+      "Private Detective",
+      "Missing Person",
+      "Hollywood",
+      "Family Secrets",
+      "Los Angeles Noir",
+      "Investigative Thriller",
+      "Colin Farrell"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Dark Matter",
+    "genres": ["Science Fiction", "Thriller", "Drama"],
+    "description": "A physicist is pulled into alternate realities after being abducted, forcing him to fight for his family and identity in a mind-bending universe.",
+    "year": 2024,
+    "keywords": [
+      "Parallel Universes",
+      "Alternate Reality",
+      "Physicist",
+      "Family Drama",
+      "Identity Crisis",
+      "Multiverse",
+      "Blake Crouch"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Ripley Underground",
+    "genres": ["Crime", "Drama", "Psychological"],
+    "description": "Tom Ripley returns in a tense sequel as art fraud spirals into murder and deception, mixing suspense and psychological intrigue across Europe.",
+    "year": 2025,
+    "keywords": [
+      "Tom Ripley Sequel",
+      "Art Fraud",
+      "European Setting",
+      "Psychological Thriller",
+      "Murder Mystery",
+      "Art World",
+      "Deception"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Under the Bridge",
+    "genres": ["Drama", "Mystery", "Crime"],
+    "description": "Based on a chilling true story, a journalist and detectives unravel the mystery behind a teenager's murder in a tight-knit Canadian town.",
+    "year": 2024,
+    "keywords": [
+      "True Crime",
+      "Teenage Murder",
+      "Canadian Setting",
+      "Journalist Investigation",
+      "Small Town Secrets",
+      "Reena Virk",
+      "Bullying"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Shards of Blue",
+    "genres": ["Drama", "Fantasy", "Adventure"],
+    "description": "A young woman discovers hidden powers after a chance encounter at a remote lake, thrust into an ancient battle between worlds.",
+    "year": 2025,
+    "keywords": [
+      "Hidden Powers",
+      "Fantasy Adventure",
+      "Ancient Battle",
+      "Magical Realism",
+      "Coming Of Age",
+      "Supernatural",
+      "Mystical Lake"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Queen Charlotte: A Bridgerton Story",
+    "genres": ["Drama", "Romance", "Historical"],
+    "description": "A young Queen Charlotte's marriage to King George of England sparks an epic love story and a societal shift that redefines the monarchy and the world of Bridgerton. As she rises to power, Charlotte navigates duty, passion, and the political intricacies of 18th-century Britain.",
+    "year": 2023,
+    "keywords": [
+      "Royal Romance",
+      "Period Drama",
+      "British Monarchy",
+      "Queen Charlotte",
+      "King George III",
+      "Bridgerton Prequel",
+      "Historical Fiction"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "House of Guinness (Season 1)",
+    "genres": ["Historical", "Drama", "Family"],
+    "description": "Follows the aftermath of the death of brewery mogul Sir Benjamin Guinness and the great impact of his will on the fate of his four adult children: Arthur, Edward, Anne, and Benjamin, set in 19th-century Ireland.",
+    "year": 2025,
+    "keywords": [
+      "Guinness Family",
+      "Irish History",
+      "Brewery Empire",
+      "Family Dynasty",
+      "19Th Century Ireland",
+      "Dublin",
+      "Steven Knight"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Monster: The Ed Gein Story (Season 3)",
+    "genres": ["Crime", "Biography", "Horror"],
+    "description": "The third installment in the Monster anthology series focuses on convicted murderer and grave robber Ed Gein, exploring his influence on horror culture and examining society's obsession with true crime.",
+    "year": 2025,
+    "keywords": [
+      "Ed Gein",
+      "Serial Killer",
+      "True Crime",
+      "Ryan Murphy",
+      "Charlie Hunnam",
+      "Wisconsin",
+      "Horror Inspiration"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Zero Day (Season 1)",
+    "genres": ["Political", "Thriller", "Drama"],
+    "description": "Robert De Niro stars as a former U.S. President who leads a commission investigating a devastating cyberattack that has claimed thousands of lives and threatens national security.",
+    "year": 2025,
+    "keywords": [
+      "Robert De Niro",
+      "Cyberattack",
+      "Former President",
+      "Political Conspiracy",
+      "Government Thriller",
+      "National Security",
+      "Investigation"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "IT: Welcome to Derry (Season 1)",
+    "genres": ["Horror", "Supernatural", "Drama"],
+    "description": "A prequel series to the IT films that explores the origins of Derry's deadly curse, set before the events of the movies and delving into the town's dark history.",
+    "year": 2025,
+    "keywords": [
+      "Stephen King",
+      "It Prequel",
+      "Derry",
+      "Pennywise",
+      "Supernatural Horror",
+      "Town Curse",
+      "Origins Story"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Marvel Zombies (Season 1)",
+    "genres": ["Animation", "Superhero", "Horror"],
+    "description": "An animated series exploring an alternate universe where Marvel superheroes have been infected by a zombie virus, creating a dark twist on familiar characters.",
+    "year": 2025,
+    "keywords": [
+      "Marvel",
+      "Zombies",
+      "Animated",
+      "Alternate Universe",
+      "Superhero Horror",
+      "Infected Heroes",
+      "Disney Plus"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "The Sisters Grimm (Season 1)",
+    "genres": ["Animation", "Fantasy", "Family"],
+    "description": "An animated series following two sisters who discover they are descendants of the famous Brothers Grimm and must use fairy tale magic to solve mysteries and protect their town.",
+    "year": 2025,
+    "keywords": [
+      "Fairy Tales",
+      "Sisters",
+      "Grimm Brothers",
+      "Animated Family",
+      "Fantasy Adventure",
+      "Magic",
+      "Apple Tv Plus"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Chad Powers (Season 1)",
+    "genres": ["Comedy", "Sports", "Drama"],
+    "description": "A disgraced college quarterback named Russ Holliday disguises himself as Chad Powers and walks onto a struggling southern football team to revive his football career.",
+    "year": 2025,
+    "keywords": [
+      "Football",
+      "College Sports",
+      "Disguise",
+      "Second Chances",
+      "Southern Setting",
+      "Sports Comedy",
+      "Quarterback"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "The Naked Gun (Movie)",
+    "genres": ["Comedy", "Action", "Parody"],
+    "description": "A reboot of the classic comedy franchise featuring the bumbling detective Frank Drebin as he leads Police Squad to save the world with his particular set of skills.",
+    "year": 2025,
+    "keywords": [
+      "Police Comedy",
+      "Frank Drebin",
+      "Parody",
+      "Slapstick",
+      "Detective",
+      "Comedy Reboot",
+      "Police Squad"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Happy Gilmore 2 (Movie)",
+    "genres": ["Comedy", "Sports"],
+    "description": "Adam Sandler returns to his iconic role as the former hockey player turned golf pro in this long-awaited sequel, bringing his unique brand of humor back to the greens.",
+    "year": 2025,
+    "keywords": [
+      "Adam Sandler",
+      "Golf Comedy",
+      "Sequel",
+      "Hockey Player",
+      "Sports Humor",
+      "Netflix Original",
+      "Happy Gilmore"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "The Last Frontier (Season 1)",
+    "genres": ["Drama", "Western", "Adventure"],
+    "description": "Set in the rugged wilderness of Alaska, this series follows families and individuals trying to survive and build new lives on America's final frontier.",
+    "year": 2025,
+    "keywords": [
+      "Alaska",
+      "Frontier Life",
+      "Wilderness Survival",
+      "Pioneer Families",
+      "Rugged Terrain",
+      "American West",
+      "Apple Tv Plus"
+    ]
+  }
+]
