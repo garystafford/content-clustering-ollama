@@ -53,8 +53,8 @@ flowchart TD
 ## Installation
 
 ```bash
-ollama pull embeddinggemma:300m
-ollama pull gemma3:1b
+ollama pull qwen3-embedding:4b
+ollama pull gpt-oss:20b
 ```
 
 ```bash
