@@ -16,24 +16,24 @@ This approach enables content platforms to automatically group similar videos ba
 
 ```mermaid
 flowchart TD
-    A["Load Content Metadata"] --> B["Prepare Metadata 
+    A["Load Content Metadata"] --> B["Prepare Metadata
     for Embedding"]
     B --> C["Generate Embeddings"]
-    C --> E["Perform Dimensionality 
+    C --> E["Perform Dimensionality
     Reduction"]
     E --> H["Determine Optimal
     Cluster Count"]
-    H --> L["Apply K-Means 
+    H --> L["Apply K-Means
     Clustering"]
-    L --> M["Access Cluster Labels 
+    L --> M["Access Cluster Labels
     and Centroids"]
-    M --> N["Store Cluster Associations 
+    M --> N["Store Cluster Associations
     and Embeddings"]
-    N --> S["Generate Descriptions 
+    N --> S["Generate Descriptions
     for Clusters"]
-    N --> T["Generate Keywords 
+    N --> T["Generate Keywords
     for Clusters"]
-    S --> V[Store Cluster Descriptions 
+    S --> V[Store Cluster Descriptions
     and Keywords]
     T --> V
 ```
@@ -50,7 +50,7 @@ flowchart TD
 8. **AI Interpretation**: Generate descriptions and keywords using LLM
 9. **Export Results**: Save enhanced data with cluster assignments
 
-## Installation
+## Installation for Ollama
 
 ```bash
 ollama pull qwen3-embedding:4b
@@ -63,5 +63,16 @@ python -m venv .venv
 source .venv/bin/activate
 
 python -m pip install pip -Uq
-python -m pip install -r requirements.txt -Uq
+python -m pip install -r requirements_ollama.txt -Uq
+```
+
+## Installation for Amazon Bedrock
+
+```bash
+python -m pip install virtualenv --break-system-packages -Uq
+python -m venv .venv
+source .venv/bin/activate
+
+python -m pip install pip -Uq
+python -m pip install -r requirements_bedrock.txt -Uq
 ```

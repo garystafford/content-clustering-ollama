@@ -1,0 +1,11 @@
+matplotlib
+numpy
+ollama
+pandas
+plotly
+scikit-learn
+yellowbrick
+
+boto3
+botocore
+python-dotenv

@@ -1,0 +1,7 @@
+matplotlib
+numpy
+ollama
+pandas
+plotly
+scikit-learn
+yellowbrick
