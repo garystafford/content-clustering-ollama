@@ -1,7 +1,10 @@
+distutils
 matplotlib
+nbformat
 numpy
 ollama
 pandas
 plotly
 scikit-learn
+setuptools
 yellowbrick
